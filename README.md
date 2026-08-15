@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-08-15 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-08-06 | [solution](problems/0490-build-scaled-dot-product-attention) |
+| [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-08-15 | [solution](problems/0905-implement-a-transformer-encoder-block) |
+| [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-08-15 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-08-15 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-08-08 | [solution](problems/0390-implement-multiquery-attention-mqa) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-08-15 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-25 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
