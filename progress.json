@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:00:42.034Z",
+  "generated_at": "2026-11-25T01:00:44.910Z",
   "items": {
     "problem:94": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2026-10-07T06:18:22.017Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-10-09T13:41:31.812Z",
+      "last_pushed_at": "2026-10-09T13:41:31.812Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-10-09T13:52:47.129Z",
+      "last_pushed_at": "2026-10-09T13:52:47.129Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
